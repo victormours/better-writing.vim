@@ -2,6 +2,8 @@ better-writing.vim
 ===
 Improve your writing by avoiding weasel words and passive phrases.
 
+![better-writing](https://cloud.githubusercontent.com/assets/1840367/11761561/337e9090-a0c8-11e5-8bd9-1ae789c950c3.gif)
+
 Inspired by [@mislav's awesome dotfiles](https://github.com/mislav/dotfiles/tree/master/bin).
 
 better-writing.vim highlights weasel words and passive phrases to help you kick them out of your writing.
